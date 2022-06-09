@@ -2,7 +2,7 @@
 - 👀 I’m interested in building my technical skill in Data Analysis
 - 🌱 I’m currently learning Data Analysis in the NG30 Days of learning
 - 💞️ I’m looking to collaborate onon everything data analysis and project
-- 📫 How to reach me: tttp://instagram.com/Janeobadimu
+- 📫 How to reach me:http://instagram.com/Janeobadimu
 
 <!---
 Delightjanet/Delightjanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
